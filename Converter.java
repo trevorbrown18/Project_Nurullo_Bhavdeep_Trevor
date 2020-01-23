@@ -22,5 +22,7 @@ public class Converter {
 //TODO: The first student will implement this method.
 // Call CelsiusToFahrenheit to convert 180 Celsius to Fahrenheit value.
 // Call FahrenheitToCelsius to convert 250 Fahrenheit to Celsius value.
+	double CtoF = celsiusToFahrenheit(180);
+	double FtoC = FahrenheitToCelsius(250);
     }
 }
