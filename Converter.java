@@ -16,7 +16,7 @@ public class Converter {
         // TODO: The second student will implement this method
 		
 		double C = (F − 32) × 5/9;
-        return 0;
+        return C;
     }
     public static void main(String[] args) {
 //TODO: The first student will implement this method.
