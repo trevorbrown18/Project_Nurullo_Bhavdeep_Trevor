@@ -28,6 +28,8 @@ public class Converter {
 // Call FahrenheitToCelsius to convert 250 Fahrenheit to Celsius value.
 	double CtoF = celsiusToFahrenheit(180);
 	double FtoC = FahrenheitToCelsius(250);
+	double KmToM = kilometersToMiles(30);
+	    
     }
 }
 
